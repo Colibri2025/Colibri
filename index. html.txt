@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>COLIBRÍ | Showroom</title>
+    <link rel="stylesheet" href="estilos.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+
+    <header class="encabezado">
+        <div class="logo">COLIBRÍ</div>
+        <nav class="menu">
+            <a href="#ninas">Niñas</a>
+            <a href="#ninos">Niños</a>
+            <a href="#contacto">Instagram</a>
+        </nav>
+    </header>
+
+    <section id="ninas" class="seccion">
+        <h2>Niñas</h2>
+        <div class="productos">
+            <div class="producto">
+                <h3>Remeras</h3>
+                <a href="https://www.instagram.com/colishowroom/profilecard/?igsh=MXV1Zmh5bzh4NTkxNg==" class="boton-comprar">Comprar</a>
+            </div>
+            <div class="producto">
+                <h3>Buzos</h3>
+                <a href="https://www.instagram.com/colishowroom/profilecard/?igsh=MXV1Zmh5bzh4NTkxNg==" class="boton-comprar">Comprar</a>
+            </div>
+            <div class="producto">
+                <h3>Calzas</h3>
+                <a href="https://www.instagram.com/colishowroom/profilecard/?igsh=MXV1Zmh5bzh4NTkxNg==" class="boton-comprar">Comprar</a>
+            </div>
+            <div class="producto">
+                <h3>Jeans</h3>
+                <a href="https://www.instagram.com/colishowroom/profilecard/?igsh=MXV1Zmh5bzh4NTkxNg==" class="boton-comprar">Comprar</a>
+            </div>
+            <div class="producto">
+                <h3>Camperas</h3>
+                <a href="https://www.instagram.com/colishowroom/profilecard/?igsh=MXV1Zmh5bzh4NTkxNg==" class="boton-comprar">Comprar</a>
+            </div>
+        </div>
+    </section>
+
+    <section id="ninos" class="seccion">
+        <h2>Niños</h2>
+        <div class="productos">
+            <div class="producto">
+                <h3>Remeras</h3>
+                <a href="https://www.instagram.com/colishowroom/profilecard/?igsh=MXV1Zmh5bzh4NTkxNg==" class="boton-comprar">Comprar</a>
+            </div>
+            <div class="producto">
+                <h3>Buzos</h3>
+                <a href="https://www.instagram.com/colishowroom/profilecard/?igsh=MXV1Zmh5bzh4NTkxNg==" class="boton-comprar">Comprar</a>
+            </div>
+            <div class="producto">
+                <h3>Calzas</h3>
+                <a href="https://www.instagram.com/colishowroom/profilecard/?igsh=MXV1Zmh5bzh4NTkxNg==" class="boton-comprar">Comprar</a>
+            </div>
+            <div class="producto">
+                <h3>Jeans</h3>
+                <a href="https://www.instagram.com/colishowroom/profilecard/?igsh=MXV1Zmh5bzh4NTkxNg==" class="boton-comprar">Comprar</a>
+            </div>
+            <div class="producto">
+                <h3>Camperas</h3>
+                <a href="https://www.instagram.com/colishowroom/profilecard/?igsh=MXV1Zmh5bzh4NTkxNg==" class="boton-comprar">Comprar</a>
+            </div>
+        </div>
+    </section>
+
+    <footer id="contacto" class="footer">
+        <p>Seguinos en <a href="https://www.instagram.com/colishowroom/profilecard/?igsh=MXV1Zmh5bzh4NTkxNg==" target="_blank">Instagram</a></p>
+    </footer>
+
+</body>
+</html>
